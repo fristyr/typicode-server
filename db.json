@@ -5,7 +5,12 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "booklets": [
+  {
+      "id": 1,
+      "title": "hello"
+    }
+    
+  
+  ]
 }
